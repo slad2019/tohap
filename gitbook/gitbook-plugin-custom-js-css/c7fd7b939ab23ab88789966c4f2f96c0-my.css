@@ -1,0 +1,9 @@
+.tooltip {
+  position: fixed;
+  text-align: left;
+  background-color: #636363;
+  color: #fff;
+  padding: 5px 0;
+  border-radius: 6px;
+  max-width: 500px;
+}
