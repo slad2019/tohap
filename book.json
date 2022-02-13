@@ -1,0 +1,15 @@
+{
+    "plugins": [
+        "custom-js-css"
+    ],
+    "pluginsConfig": {
+        "custom-js-css": {
+            "js": [
+                "./data/my.js"
+            ],
+            "css": [
+                "./data/my.css"
+            ]
+        }
+    }
+}

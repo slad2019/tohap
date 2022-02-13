@@ -1,6 +1,6 @@
 # Note
 
-This archive is the reproduction and reprocess of Professor Melvyn C. Goldstein's [*The Tibetan Oral History Project Collection*](https://www.loc.gov/collections/tibetan-oral-history-project/) at the Library of Congress. It is rendered by gitbook and github pages.  
+This archive is the reproduction and reprocess of Professor Melvyn C. Goldstein's [*The Tibetan Oral History Project Collection*](https://www.loc.gov/collections/tibetan-oral-history-project/) at the Library of Congress with permission. The Library of Congress is working with the donor to add more files to this collection, and I'll update from time to time. This website is rendered by gitbook and github pages.  
 
 The collection, especially the Political Collection, provides invaluable information for Professor Melvyn Goldstein's marvelous four volumes work *A History of Modern Tibet*. It includes interviews to various persons relevant to this period of history from different ethnic group, location, backgrounds, political attitude and social stratum. The majority of the interviewees are Tibetan, and some are Chinese; so do the languages of interviews. The collection is the English translation by Goldsein's team. For more information, please see [*About this Collection*](ABOUT.md).
 
@@ -10,4 +10,6 @@ With oral history as an important compliment, Professor Melvyn Goldstein tried t
 
 | Date   | Changes |
 |:-------|---------| 
-|2022-01-09 | Converted all Tibetan transliteration to unicode; </br> In glossary, used Chinese charaters instead of pin yin. |
+|2022-01-09 | Converted all Tibetan transliteration to unicode; <br/> In glossary, used Chinese charaters instead of pin yin. |
+|2022-02-06 | add tooltip-style glossary in main body text. |
+
