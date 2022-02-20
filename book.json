@@ -1,6 +1,9 @@
 {
     "plugins": [
-        "custom-js-css"
+        "custom-js-css",
+        "-search",
+        "-lunr",
+        "search-plus"
     ],
     "pluginsConfig": {
         "custom-js-css": {
