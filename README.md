@@ -8,8 +8,11 @@ With oral history as an important compliment, Professor Melvyn Goldstein tried t
 
 # Change log
 
+The contents are updated on February 21, 2022.
+
 | Date   | Changes |
 |:-------|---------| 
 |2022-01-09 | Converted all Tibetan transliteration to unicode; <br/> In glossary, used Chinese charaters instead of pin yin. |
 |2022-02-06 | add tooltip-style glossary in main body text. |
+|2022-02-21 | use gitbook-search-plus for search. |
 

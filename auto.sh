@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# extract md from LoC
+python3 scripts/ex_md.py
+
+# insert date
+sed -i "s/updated on.*\./updated on `date +'%B %d, %Y'`./" README.md
+
 # install the plugins and build the static site
 gitbook install && gitbook build
 
