@@ -7,7 +7,7 @@ git pull origin master --recurse-submodules
 python3 scripts/ex_md.py
 
 # insert date
-sed -i "s/updated on.*\./updated on `date +'%B %d, %Y'`./" README.md
+sed -i "" "s/updated on.*\./updated on `date +'%B %d, %Y'`./" README.md
 
 git add .
 git commit -a -m "udpate md"
