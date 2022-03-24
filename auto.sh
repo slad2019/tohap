@@ -4,7 +4,7 @@
 git pull origin master --recurse-submodules
 
 # extract md from LoC
-python3 scripts/ex_md.py
+python3 ../scripts/ex_md.py
 
 # insert date
 sed -i "" "s/updated on.*\./updated on `date +'%B %d, %Y'`./" README.md
