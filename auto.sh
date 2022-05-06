@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # pulll master
-git pull origin master --recurse-submodules
+git pull origin master
 
 # extract md from LoC
 python3 ../scripts/ex_md.py
@@ -11,7 +11,7 @@ sed -i "" "s/updated on.*\./updated on `date +'%B %d, %Y'`./" README.md
 
 git add .
 git commit -a -m "udpate md"
-git push origin master --recurse-submodules=on-demand
+git push origin master
 
 # install the plugins and build the static site
 gitbook install && gitbook build
