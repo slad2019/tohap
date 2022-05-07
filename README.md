@@ -8,7 +8,7 @@ With oral history as an important compliment, Professor Melvyn Goldstein tried t
 
 # Change log
 
-The contents are updated on May 06, 2022.
+The contents are updated on May 07, 2022.
 
 | Date   | Changes |
 |:-------|---------| 
